@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+*.local
+.DS_Store
+tsconfig.tsbuildinfo
+photo/
+.claude/
+voice-feature-prompt.md
+voice-feature-v2.md
+server/node_modules
